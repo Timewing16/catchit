@@ -498,7 +498,6 @@ nav .fa-bars{
         left: 7%;
     }
     .nav{
-        position: fixed;
         top: 0;
         z-index: 100;
         display: inline-block;
