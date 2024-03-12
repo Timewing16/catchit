@@ -497,17 +497,6 @@ nav .fa-bars{
         top: 4%;
         left: 7%;
     }
-    .nav{
-        top: 0;
-        z-index: 100;
-        display: inline-block;
-        width: 100%;
-        padding: 100px 7% 0;
-        background: black;
-        text-align: right;
-        max-height: 100px;
-        overflow: hidden;
-        transition: max-height 0.5s;
     }
     nav .nav-links li{
         margin: 10px 0;
@@ -516,14 +505,6 @@ nav .fa-bars{
     .register-btn{
         margin: 15px 0 30px;
         display: inline-block;
-    }
-    nav .fa-bars{
-        display: block;
-        position: fixed;
-        top: 4%;
-        right: 7%;
-        color: white;
-        font-size: 28px;
     }
     .active::after{
         left: -40px;
